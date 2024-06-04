@@ -13,12 +13,12 @@ const SEO = [
 		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
 	},
 
-	{
-		page: "articles",
-		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
-	},
+	// {
+	// 	page: "articles",
+	// 	description:
+	// 		"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+	// 	keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+	// },
 
 	{
 		page: "projects",
