@@ -39,21 +39,11 @@ const Projects = () => {
 					</div>
 					<div className="projects-container">
 						<div className="title projects-title">
-							Things I’ve made trying to put my dent in the
-							universe.
+							Nurturing ideas and growing my impact through software
 						</div>
 
 						<div className="subtitle projects-subtitle">
-							I've worked on a variety of projects over the years
-							and I'm proud of the progress I've made. Many of
-							these projects are open-source and available for
-							others to explore and contribute to. If you're
-							interested in any of the projects I've worked on,
-							please feel free to check out the code and suggest
-							any improvements or enhancements you might have in
-							mind. Collaborating with others is a great way to
-							learn and grow, and I'm always open to new ideas and
-							feedback.
+							While applications I worked on in previous positions are not publicly available, my personal applications are available. Each application is a testament to how I have grown in technical skill. If you have any questions about my various projects, please reach out. I am more than happy to grow with others whether that is through outside critique or collaboration. I have a couple of longer term projects planned and hope to build a small team of engineers to continue to grow with through our careers. 
 						</div>
 
 						<div className="projects-list">
