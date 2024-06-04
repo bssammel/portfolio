@@ -17,7 +17,7 @@ const About = () => {
 	}, []);
 
 	const currentSEO = SEO.find((item) => item.page === "about");
-	const descriptionText = INFO.about.description.join()
+	// const descriptionText = INFO.about.description.join()
 
 	return (
 		<React.Fragment>

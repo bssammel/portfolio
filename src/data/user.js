@@ -10,8 +10,8 @@ const INFO = {
 		// twitter: "https://twitter.com/",
 		github: "https://github.com/bssammel",
 		linkedin: "https://www.linkedin.com/in/simon-sammel/",
-		// leetcode: ""
-		// hackerRank: ""
+		leetcode: "https://leetcode.com/u/bssammel/",
+		hackerRank: "https://www.hackerrank.com/profile/bssammel"
 		// instagram: "https://instagram.com/",
 		// stackoverflow: "https://stackoverflow.com/",
 		// facebook: "https://facebook.com/",
