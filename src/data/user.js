@@ -41,7 +41,7 @@ const INFO = {
 		{
 			title: "Akeso EMR/EHR",
 			description:
-				"Akeso is a PERN stack EMR designed specifically for Direct Primary Care practices. I am currently working on tweaks to improve front end conditional view logic before working on the second major release to introduce appointment creation, encounter creation, and vitals tracking. Release planned for end of June 2024 but timeline is flexible due to relocating.",
+				"Akeso is a PERN stack EMR designed specifically for Direct Primary Care practices. I am currently working on tweaks to improve front end conditional view logic before working on the second major release to introduce appointment creation, encounter creation, and vitals tracking. Release planned for end of summer 2024 but timeline is flexible due to relocating.",
 			logo: "../akeso-logo.png",
 			linkText: "View Live Site",
 			link: "https://akeso-emr.onrender.com/",
