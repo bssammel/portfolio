@@ -15,6 +15,18 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
+								src="./midd-logo.png"
+								alt="Middlebury College logo, a dark blue shield with an open book, a globe, chapel, and the year the college was founded, 1800."
+								className="work-image"
+							/>
+							<div className="work-title">Middlebury College</div>
+							<div className="work-subtitle">
+								Full Stack Software Developer
+							</div>
+							<div className="work-duration">September 2024 - Now</div>
+						</div>
+						<div className="work">
+							<img
 								src="./app-academy-logo.png"
 								alt="app academy logo"
 								className="work-image"
