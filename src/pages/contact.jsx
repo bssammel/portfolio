@@ -49,7 +49,7 @@ const Contact = () => {
 							<a href={`mailto:${INFO.main.email}`}>
 								{INFO.main.email}
 							</a>
-							. I do my best to respond within a day or two, but it can be hectic with a spouse in medical school and spending my time herding 4 cats and a lab mix. It's not you, it's me.
+							. I do my best to respond within a day or two, but it can be hectic with a spouse in medical school and spending my time herding 3 cats and a lab mix. It's not you, it's me.
 							Whether it is a question about my current work, my garden, or you just really want the recipe for my scratch chai latte syrup, don't hesitate to reach out. 
 						</div>
 					</div>
