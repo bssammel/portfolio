@@ -11,7 +11,7 @@ import SEO from "../data/seo";
 
 import "./styles/about.css";
 
-const About = () => {
+const Activism = () => {
 	useEffect(() => {
 		window.scrollTo(0, 0);
 	}, []);
@@ -22,7 +22,7 @@ const About = () => {
 	return (
 		<React.Fragment>
 			<Helmet>
-				<title>{`About | ${INFO.main.title}`}</title>
+				<title>{`Trans Rights, Baby | ${INFO.main.title}`}</title>
 				<meta name="description" content={currentSEO.description} />
 				<meta
 					name="keywords"
@@ -80,4 +80,4 @@ const About = () => {
 	);
 };
 
-export default About;
+export default Activism;
